@@ -1,0 +1,62 @@
+12:21:35.965 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+12:21:36.108 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+12:21:36.907 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+12:22:36.853 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+12:22:37.008 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+12:22:38.126 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+12:22:44.076 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+22:24:42.059 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+22:24:42.207 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+22:24:43.071 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+22:24:48.924 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+22:32:25.646 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+22:32:25.851 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+22:32:26.871 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+22:32:32.845 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+22:56:14.294 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+22:56:14.449 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+22:56:15.561 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+22:56:21.706 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+22:57:41.161 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+22:57:41.331 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+22:57:42.469 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+22:57:48.566 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+10:37:03.337 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+10:37:03.479 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+10:37:04.525 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+10:39:41.998 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+10:39:42.142 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+10:39:43.259 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+10:43:14.270 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+10:43:14.411 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+10:43:15.440 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+10:47:31.045 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+10:47:31.200 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+10:47:32.156 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+12:27:17.995 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+12:27:18.162 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+12:27:19.349 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+12:34:32.119 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+12:34:32.303 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+12:34:33.128 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+12:34:38.920 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+11:21:51.202 [main] INFO  testcases.TC_02_LoginTest - *********** application is launched ********
+11:24:23.713 [main] INFO  testcases.TC_02_LoginTest - *********** application is launched ********
+11:28:33.480 [main] INFO  testcases.TC_02_LoginTest - *********** application is launched ********
+11:29:33.632 [main] INFO  testcases.TC_02_LoginTest - *********** application is launched ********
+11:30:32.680 [main] INFO  testcases.TC_02_LoginTest - *********** application is launched ********
+11:34:34.223 [main] INFO  testcases.TC_02_LoginTest - *********** application is launched ********
+11:34:47.752 [main] INFO  testcases.TC_02_LoginTest - *********** enter login  details********
+11:34:54.860 [main] ERROR testcases.TC_02_LoginTest - test failed due toorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='email']"}
+  (Session info: chrome=114.0.5735.134)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f55dace01e70f9aa4108ab28457cad, findElement {using=name, value=email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.134, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\GOURAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62060}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62060/devtoo..., se:cdpVersion: 114.0.5735.134, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f55dace01e70f9aa4108ab28457cad
+11:29:28.137 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+11:29:33.301 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+11:29:34.490 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+11:29:40.135 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
