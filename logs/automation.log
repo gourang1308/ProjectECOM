@@ -64,3 +64,7 @@ Session ID: 18f55dace01e70f9aa4108ab28457cad
 15:52:06.049 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
 15:52:07.250 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
 15:52:13.070 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********
+16:24:21.213 [main] INFO  testcases.TC01_Registratio - *********** application is launched ********
+16:24:26.349 [main] INFO  testcases.TC01_Registratio - *********** navigate to registration page  ********
+16:24:27.132 [main] INFO  testcases.TC01_Registratio - *********** enter registration details********
+16:24:32.664 [main] INFO  testcases.TC01_Registratio - *********** registration is successful  ********

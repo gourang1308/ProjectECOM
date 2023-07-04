@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-03T15:51:52 IST" name="Suite" finished-at="2023-07-03T15:52:13 IST" duration-ms="20282">
+  <suite started-at="2023-07-04T16:24:11 IST" name="Suite" finished-at="2023-07-04T16:24:32 IST" duration-ms="21610">
     <groups>
     </groups>
-    <test started-at="2023-07-03T15:51:52 IST" name="Test" finished-at="2023-07-03T15:52:13 IST" duration-ms="20282">
+    <test started-at="2023-07-04T16:24:11 IST" name="Test" finished-at="2023-07-04T16:24:32 IST" duration-ms="21610">
       <class name="testcases.TC01_Registratio">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.TC01_Registratio@13e344d]" started-at="2023-07-03T15:51:53 IST" name="setup" finished-at="2023-07-03T15:52:00 IST" duration-ms="7816" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.TC01_Registratio@13e344d]" started-at="2023-07-04T16:24:11 IST" name="setup" finished-at="2023-07-04T16:24:21 IST" duration-ms="9867" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="register()[pri:0, instance:testcases.TC01_Registratio@13e344d]" started-at="2023-07-03T15:52:00 IST" name="register" finished-at="2023-07-03T15:52:13 IST" duration-ms="12203" status="PASS">
+        <test-method signature="register()[pri:0, instance:testcases.TC01_Registratio@13e344d]" started-at="2023-07-04T16:24:21 IST" name="register" finished-at="2023-07-04T16:24:32 IST" duration-ms="11460" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
